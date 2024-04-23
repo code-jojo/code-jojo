@@ -13,4 +13,4 @@ DevOps: Experience in CI/CD pipelines and infrastructure deployment.
 
 Let's Connect! 📫
 
-Interested in collaborating or discussing opportunities? Feel free to reach out to me via email. Let's build something great together! 🌟
+Interested in collaborating or discussing opportunities? Feel free to reach out to me via email. Let's build something great together!🌟
