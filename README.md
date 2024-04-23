@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @code-jojo
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to My GitHub Profile! 👋
+About Me 🚀
+Hello there! I'm Jojo, a Principle Engineer with a passion for crafting reliable software solutions. I specialize in React, React Native, and .NET technologies, and I have hands-on experience in deploying applications to Kubernetes and AWS cloud infrastructure.
 
-<!---
-code-jojo/code-jojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills 💼
+React: Proficient in building dynamic web applications.
+React Native: Experienced in developing cross-platform mobile applications.
+.NET: Skilled in building scalable backend solutions.
+DevOps: Experience in CI/CD pipelines and infrastructure deployment.
+
+Let's Connect! 📫
+Interested in collaborating or discussing opportunities? Feel free to reach out to me via email. Let's build something great together! 🌟
