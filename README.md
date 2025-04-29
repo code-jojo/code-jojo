@@ -2,7 +2,7 @@ Welcome to My GitHub Profile! 👋
 
 About Me 🚀
 
-Hello there! I'm Jojo, a Principle Engineer with a passion for crafting reliable software solutions. I specialize in React, React Native, and .NET technologies, and I have hands-on experience in deploying applications to Kubernetes and AWS cloud infrastructure.
+Hello there! I'm Jojo, a Principle Engineer with a passion for crafting reliable software solutions. I specialize in React, React Native, Ruby on Rails and .NET technologies, and I have hands-on experience in deploying applications to Kubernetes and AWS cloud infrastructure.
 
 Skills 💼
 
@@ -10,7 +10,7 @@ React: Proficient in building dynamic web applications.
 
 React Native: Experienced in developing cross-platform mobile applications.
 
-.NET: Skilled in building scalable backend solutions.
+.NET/Ruby on Rails: Skilled in building scalable backend solutions.
 
 DevOps: Experience in CI/CD pipelines and infrastructure deployment.
 
